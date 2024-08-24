@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-openai
+neo4j
+llama_index
+python-dotenv
+langchain-groq
